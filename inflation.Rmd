@@ -73,4 +73,4 @@ with(mtcars, plot(hp, mpg))
 
 Inline code is for single numbers/short text:
 
-We have `32` cars.
+We have `32` cars. And 
