@@ -1,6 +1,6 @@
 ---
 title: "Inflation Data"
-author: "Aaron Peikert and Me"
+author: "Aaron Peikert and Me and We"
 date: "`r Sys.Date()`"
 output: pdf_document
 repro:
